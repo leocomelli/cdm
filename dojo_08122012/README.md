@@ -1,8 +1,8 @@
 <h2>08/12/2012</h2>
 
-<b>Local:</b> 
+<b>Linguagem:</b> 
 <ul>
-  <li>Escola Adelino Bordignon</li>
+  <li>Java</li>
 </ul>
 <b>Agenda:</b>
 <ul>
@@ -18,4 +18,8 @@
 <b>Participantes:</b> 
 <ul>
   <li>Diogo, Léo, Gabriel, Ronaldo, Matheus, Odair e Henrique</li>
+</ul>
+<b>Local:</b> 
+<ul>
+  <li>Escola Adelino Bordignon</li>
 </ul>
