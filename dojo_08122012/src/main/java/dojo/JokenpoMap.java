@@ -3,8 +3,6 @@ package dojo;
 import java.util.HashMap;
 import java.util.Map;
 
-
-// Diogo, Leo, Gabriel, Ronaldo, Matheus, Odair e Henrique
 /**
  * Jokenpo, sendo:
  * 
