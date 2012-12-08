@@ -13,7 +13,7 @@
 </ul>
 <b>Desafio:</b> 
 <ul>
-  <li><a href="http://dojopuzzles.com/problemas/exibe/numeros-felizes/" target="_new">Números Felizes</a></li>
+  <li><a href="http://dojopuzzles.com/problemas/exibe/jokenpo/" target="_new">Jokenpo</a></li>
 </ul>
 <b>Participantes:</b> 
 <ul>
