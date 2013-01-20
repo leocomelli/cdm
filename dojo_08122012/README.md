@@ -14,6 +14,7 @@
 <b>Desafio:</b> 
 <ul>
   <li><a href="http://dojopuzzles.com/problemas/exibe/jokenpo/" target="_new">Jokenpo</a></li>
+  <li>Concluído? <b>Sim</b></li>
 </ul>
 <b>Participantes:</b> 
 <ul>
