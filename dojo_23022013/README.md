@@ -13,13 +13,13 @@
 </ul>
 <b>Desafio:</b> 
 <ul>
-  <li><a href="http://dojopuzzles.com/problemas/exibe/distribuicao-de-mictorios/" target="_new">Distribuição de Mictórios</a> - Concluído? <b>Sim</b></li>
+  <li><a href="http://dojopuzzles.com/problemas/exibe/descubra-o-assassino/" target="_new">Descubra o assassino</a> - Concluído? <b>Sim</b></li>
 </ul>
 <b>Participantes:</b> 
 <ul>
-  <li>Gabriel, Lázaro, Wilian, João Paulo e Leo</li>
+  <li>Lázaro, Samuel, Luiz, Fabiano e Léo</li>
 </ul>
 <b>Local:</b> 
 <ul>
-  <li>Adelino Bordignon</li>
+  <li>ETEC</li>
 </ul>
