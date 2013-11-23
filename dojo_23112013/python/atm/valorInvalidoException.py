@@ -1,0 +1,3 @@
+class ValorInvalidoException(Exception):
+    
+    pass
